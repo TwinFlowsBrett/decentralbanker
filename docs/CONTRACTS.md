@@ -105,8 +105,10 @@ Run: `forge build`, then `forge test`.
 
 | Network | Vault | Asset |
 |---|---|---|
-| Arbitrum Sepolia | TBD (deploy pending) | MockUSDC (pending) |
+| Arbitrum Sepolia | 0x30490cf280a24beb26ae46b001f6940f2c81e3ce | MockUSDC 0x2cd2ff2235faf9036ddb4968f6e0892e5c0f7d30 |
 | Arbitrum One | Not yet deployed | — |
+
+View on Arbiscan Sepolia: https://sepolia.arbiscan.io/address/0x30490cf280a24beb26ae46b001f6940f2c81e3ce
 
 ## Security status
 
