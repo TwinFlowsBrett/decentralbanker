@@ -1,5 +1,10 @@
 # DecentralBanker
 
+> **This repo is a public mirror.** The source of truth moved into
+> [Twinflows-Capital/defi](https://github.com/Twinflows-Capital/defi)
+> (`contracts/banker/`, `docs/decentralbanker.md`, `docs/VISION.md`), with
+> the operator service in `Twinflows-Capital/desk` (`engine/bins/decentralbanker`).
+
 The money-movement brain for a trading operation. One contract holds the
 desk's funds and routes them between accounts — exchange deposit addresses,
 onchain venues, eventually bridges. Money only ever flows to pre-approved
